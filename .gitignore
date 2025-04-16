@@ -1,0 +1,13 @@
+# Ignorer l'environnement virtuel
+env/
+
+# Ignorer les fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers logs ou temporaires
+*.log
+*.db
+*.sqlite3
+*.mp4
