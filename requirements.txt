@@ -3,3 +3,4 @@ mediapipe
 numpy
 pyttsx3
 sounddevice
+streamlit
